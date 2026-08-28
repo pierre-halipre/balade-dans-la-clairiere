@@ -17,7 +17,7 @@ la route !
 ### 2.1. Pour jouer
 
 Téléchargez le
-fichier [balade_dans_la_clairiere.exe](https://github.com/pierre-halipre/balade-dans-la-clairiere-python/releases/download/v1/balade_dans_la_clairiere.exe "fichier") sur votre ordinateur.  
+fichier [balade_dans_la_clairiere.exe](https://github.com/pierre-halipre/balade-dans-la-clairiere-python/releases/download/v1/balade_dans_la_clairiere.exe "balade_dans_la_clairiere.exe") sur votre ordinateur.  
 Exécuter le fichier.
 > Configuration minimale :
 >* ordinateur avec Windows 10 ;
@@ -28,7 +28,7 @@ Exécuter le fichier.
 ### 2.2. Pour développer
 
 Téléchargez le
-dossier [balade-dans-la-clairiere-1.zip](https://github.com/pierre-halipre/balade-dans-la-clairiere-python/archive/refs/tags/v1.zip "dossier") sur votre ordinateur.  
+dossier [balade-dans-la-clairiere-1.zip](https://github.com/pierre-halipre/balade-dans-la-clairiere-python/archive/refs/tags/v1.zip "balade-dans-la-clairiere-1.zip") sur votre ordinateur.  
 Décompressez le dossier.  
 Intégrez le dossier dans votre IDE.
 > IDE, langage et librairies utilisés :
@@ -137,7 +137,7 @@ Cliquez sur le bouton :
 ## 4. License
 
 Le programme est distribué selon la licence GPL-3.0 du
-fichier [LICENSE.md](./LICENSE.md).    
+fichier [LICENSE.md](./LICENSE.md "LICENSE.md").  
 Les images et les musiques sont attribuées selon les licences suivantes :
 * "Witch on Broomstick" by AntumDeluge licensed CC-BY 4.0, CC-BY 3.0 or  
   OGA-BY 3.0:  
@@ -167,5 +167,5 @@ Les images et les musiques sont attribuées selon les licences suivantes :
 * "Hardpixel" by Jovanny Lemonad licensed Public Domain, GPL or OFL:  
   https://www.1001freefonts.com/hardpixel.font.
 
-> Contactez l'auteur à pierre.halipre@mailo.com pour toute information.  
+> Contactez l'auteur à [pierre.halipre@mailo.com](mailto:pierre.halipre@mailo.com) pour toute information.  
 > Copyright 2023 Pierre Halipré
