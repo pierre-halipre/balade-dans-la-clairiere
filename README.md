@@ -18,7 +18,7 @@ la route !
 
 Téléchargez le
 fichier [balade_dans_la_clairiere.exe](https://github.com/pierre-halipre/balade-dans-la-clairiere-python/releases/download/v1/balade_dans_la_clairiere.exe "balade_dans_la_clairiere.exe") sur votre ordinateur.  
-Exécuter le fichier.
+Exécutez le fichier.
 > Configuration minimale :
 >* ordinateur avec Windows 10 ;
 >* processeur de 2 GHz ;
@@ -49,8 +49,8 @@ Le titre du jeu, un sablier et les crédits sont affichés à l'écran.
 ![Écran de chargement](./assets/readme_1_loading.png "Écran de chargement")  
 
 Un pop-up demande si vous voulez personnaliser les graphismes.  
-Cliquez sur *Oui* pour changer le nom et l'image des personnages du jeu depuis  
-la nouvelle fenêtre en suivant les instructions.  
+Cliquez sur *Oui* pour changer le nom et l'image des personnages en suivant les  
+instructions de la nouvelle fenêtre apparue.  
 Cliquez sur *Non* pour jouer au jeu original.
 
 ### 3.2. Écran de menu
@@ -68,7 +68,7 @@ Cliquez respectivement sur le bouton :
 * *langue* pour changer la langue ;
 * *maison* pour quitter le programme.
 
-Les boutons *musique* et *langue* sont aussi accessibles sur les autres écrans.
+Les boutons *musique* et *langue* sont accessibles sur tous les écrans.
 
 ### 3.3. Écran de partie
 
